@@ -21,9 +21,13 @@ title      : Transporte de Hacienda
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Descripcion"
 author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\logo.png
+  height: 100 #height in px, defaults to 52px
+
+favicon:
+  path: "assets/img/favicon.ico" # Ruta de tu favicon
+  type: "image/x-icon" 
 
 locale: "es-ES" # See available languages in _data/sitetext.yml
 
