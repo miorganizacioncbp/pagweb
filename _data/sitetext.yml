@@ -138,7 +138,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: " "
-    text: Transporte de Hacienda
+    text: " "
     
   services:
     title: "Servicios"
