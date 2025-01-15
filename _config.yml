@@ -24,13 +24,13 @@ logo:     #optional, defaults to site title
   height: 100 #height in px, defaults to 52px
 
 favicon:
-  path: "assets/img/favicon.ico" # Ruta de tu favicon
-  type: "image/x-icon" 
+  path: assets\img\favicon.ico # Ruta de tu favicon
+  type: image\x-icon 
 
 locale: "es-ES" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: GTM-WBB6PNPM
 
 collections:
   portfolio:
