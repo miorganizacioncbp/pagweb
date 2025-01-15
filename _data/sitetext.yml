@@ -228,7 +228,7 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
+    title: "Contactanos"
     text: "Dejanos tu mensaje y nos contactaremos contigo"
     section: contacto
     name: "Nombre*"
@@ -251,7 +251,7 @@ es: &DEFAULT_ES
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/transportemarquitos/
         icon: "fab fa-instagram"
 es-ES:
   <<: *DEFAULT_ES
