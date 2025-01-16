@@ -142,19 +142,19 @@ es: &DEFAULT_ES
     
   services:
     title: "Servicios"
-    text: "Por que elegirnos"
+    text: " "
     section: servicios
     list:
       - title: "Equipos doble piso"
         desc: "Camiones con jaulas doble piso"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-truck #find more at https://fontawesome.com/icons
       - title: "Constrol Satelital"
         desc: "Monitoreo de la ubicacion y velocidad de las unidades"
-        icon: fas fa-laptop
+        icon: fas fa-satellite-dish
       - title: "Experiencia"
-        desc: "Mas de ? años en el mercado"
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Mas de 22 años en el mercado"
+        icon: fas fa-handshake
+      - title: "Otro"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
@@ -188,17 +188,20 @@ es: &DEFAULT_ES
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Estancias Clarín S.A"
+        url: 
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "La Costura S.A"
+        url: 
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Sanchez y Ottero"
+        url: 
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Agroestancias S.A"
+        url: 
+        logo: assets/img/clients/creative-market.jpg
+      - title: "Mayordomo Oscar y Osvaldo"
+        url: 
         logo: assets/img/clients/creative-market.jpg
 
 
@@ -217,11 +220,16 @@ es: &DEFAULT_ES
     subject: "Envío del formulario de contacto"
     submit: "Enviar Mensaje"
 
+  wpp:
+    url: "https://wa.me/5492302560570"
+
   footer:
     legal: "Política de Privacidad"
     social:
       - url: https://www.instagram.com/transportemarquitos/
         icon: "fab fa-instagram"
+      - url: https://wa.me/5492302560570
+        icon: "fab fa-whatsapp"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

@@ -34,14 +34,14 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Equipo"
-      section: portfolio
     - title: "Nosotros"
       section: nosotros
-    - title: "Equipo"
-      section: equipo
+    - title: "Servicios"
+      section: servicios
+    - title: "Equipos"
+      section: portfolio
+    - title: "Galeria"
+      section: galeria
     - title: "Contactanos"
       section: contacto
 es-ES:

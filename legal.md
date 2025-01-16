@@ -1,37 +1,79 @@
 ---
 layout: page
-title: Privacy Policy
+title: Política de Privacidad
 ---
+<br>
+<br>
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Política de Privacidad</h2>
 </div>
+<br>
+Esta Política de Privacidad describe cómo se recopila, utiliza y protege su información personal cuando visita {{ site.title }} (en adelante, el "Sitio").
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+**INFORMACIÓN PERSONAL QUE RECOPILAMOS**
 
-**PERSONAL INFORMATION WE COLLECT**
+Recopilamos dos tipos de información:
 
-{% if site.analytics.google %}
+1. **Información proporcionada por el usuario:**  
+   Cuando usted completa un formulario en el Sitio, podemos recopilar datos personales como:
+   - Nombre
+   - Dirección de correo electrónico
+   - Número de teléfono
+   - Otros datos que decida proporcionarnos de forma voluntaria.
 
-Automatically Collected (Google Analytics):
+2. **Información recopilada automáticamente:**  
+   Cuando usted visita el Sitio, recopilamos información automáticamente sobre su dispositivo, como:
+   - Dirección IP
+   - Tipo de navegador
+   - Idioma del navegador
+   - Páginas visitadas y tiempo en el sitio
+   - Cookies u otras tecnologías similares.
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+**¿CÓMO UTILIZAMOS SU INFORMACIÓN PERSONAL?**
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+La información recopilada se utiliza para:
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+1. **Datos proporcionados por el usuario:**  
+   - Responder a sus consultas o solicitudes de información.
+   - Ofrecerle servicios o productos solicitados.
+   - Enviar comunicaciones relacionadas con el Sitio o servicios adicionales, si usted da su consentimiento.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+2. **Datos recopilados automáticamente:**  
+   - Mejorar el funcionamiento del Sitio y la experiencia del usuario.
+   - Analizar el comportamiento de los visitantes para mejorar nuestros servicios.
+   - Cumplir con obligaciones legales.
 
-{% else %}
+**BASE LEGAL PARA EL TRATAMIENTO DE DATOS**  
+Procesamos su información personal sobre la base de su consentimiento explícito al completar formularios o al aceptar cookies en el Sitio.
 
-We do not collect any data about you or use any cookies.
+**COMPARTICIÓN DE SU INFORMACIÓN PERSONAL**
 
-{% endif %}
+No compartimos su información personal con terceros, salvo en los siguientes casos:
+- Para cumplir con leyes y regulaciones aplicables.
+- Para proteger nuestros derechos legales.
+- Para mejorar los servicios del Sitio mediante herramientas como Google Analytics. Puede consultar su política aquí: [https://www.google.com/intl/es/policies/privacy/](https://www.google.com/intl/es/policies/privacy/).
 
-**CHANGES**
+**DERECHOS DEL USUARIO**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Usted tiene los siguientes derechos en relación con sus datos personales:
 
-**CONTACT US**
+1. **Acceso:** Puede solicitar una copia de los datos personales que hemos recopilado sobre usted.
+2. **Corrección:** Puede solicitar que corrijamos datos incorrectos o incompletos.
+3. **Eliminación:** Puede solicitar la eliminación de sus datos personales, salvo que existan razones legales para conservarlos.
+4. **Retiro del consentimiento:** Puede retirar su consentimiento para el uso de sus datos en cualquier momento.
+5. **Restricción del tratamiento:** Puede limitar el uso de sus datos en ciertas circunstancias.
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Para ejercer cualquiera de estos derechos, contáctenos utilizando los datos a continuación.
+
+**SEGURIDAD DE LOS DATOS**
+
+Adoptamos medidas técnicas y organizativas razonables para proteger su información personal contra accesos no autorizados, pérdida, alteración o divulgación.
+
+**CAMBIOS EN ESTA POLÍTICA**
+
+Podemos actualizar esta Política de Privacidad periódicamente para reflejar cambios en nuestras prácticas, por razones legales o reglamentarias. Le recomendamos revisar esta página regularmente para estar informado sobre nuestras políticas.
+
+**CONTÁCTENOS**
+
+Si tiene preguntas sobre esta Política de Privacidad o desea ejercer alguno de sus derechos, puede contactarnos en:  
+Correo electrónico: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
