@@ -169,7 +169,6 @@ es: &DEFAULT_ES
     text: ""
     section: galeria
     list:
-      - url: assets/img/galeria/galeria1.jpg
       - url: assets/img/galeria/galeria2.jpg
       - url: assets/img/galeria/galeria3.jpg
       - url: assets/img/galeria/galeria4.jpg
@@ -178,8 +177,10 @@ es: &DEFAULT_ES
 
   about:
     title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: " "
+    body: "<p>Nuestra empresa fue fundada en 2003 en Intendente Alvear, La Pampa, con el propósito de ofrecer soluciones de transporte especializadas en el traslado de hacienda, cereales y maquinarias agrícolas. Desde nuestros inicios, hemos trabajado para construir una reputación sólida basada en la confiabilidad, el cumplimiento y la excelencia en el servicio.</p>
+  <p>Actualmente, nos dedicamos al transporte de hacienda y cereal. Contamos con una flota de cuatro camiones Scania, especialmente acondicionados para garantizar la seguridad y el bienestar de los animales durante el traslado, así como la protección de los granos transportados. Además, implementamos sistemas de seguimiento en tiempo real para brindar un servicio transparente y eficiente a nuestros clientes.</p>
+  <p>A lo largo de nuestra trayectoria, hemos tenido el privilegio de trabajar con empresas líderes en el sector agro-ganadero, tales como Estancias Clarín S.A, La Costura S.A, Sanchez y Ottero, Agroestancias S.A, Mayordomo Oscar y Osvaldo entre otros. Este compromiso con la calidad y la confianza nos ha permitido construir relaciones comerciales sólidas y sostenidas en el tiempo.</p>"
     section: nosotros
 
   clients:
